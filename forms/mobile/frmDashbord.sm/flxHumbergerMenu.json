@@ -1,0 +1,74 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "saa8f729db7d44ffa61334e004cc02f2",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "-100%"
+    },
+    "children": [
+        "flxHumberge"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxHumbergerMenu",
+    "ide_onClick": "AS_FlexContainer_e7937035c24343ab87832270c57a1657",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i95e2574705a484dbfbf4b9b38f5a284",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmDashbord",
+    "pf": "frmDashbord",
+    "responsiveconfig": {
+        "offset": {
+            "landscape": 0,
+            "portrait": 0
+        },
+        "span": {
+            "landscape": 6,
+            "portrait": 12
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

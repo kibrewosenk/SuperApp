@@ -1,0 +1,29 @@
+{
+    "AS_Image_c64d2a155127436db49286e7b70d7174": {
+        "id": "AS_Image_c64d2a155127436db49286e7b70d7174",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDashbord",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j24ee47617c5456698cbe52c276bbaa7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_h56cd2c8a3fd465e94a435f3c0f313d0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var self = this;\n    if(self.view.lblTotalBalanceAmount.text == \"***\"){\n      self.view.lblTotalBalanceAmount.text = \"300,000\";\n      \n    }\nelse{\n  self.view.lblTotalBalanceAmount.text = \"***\";\n  \n}",
+            "parentId": null
+        }]
+    }
+}

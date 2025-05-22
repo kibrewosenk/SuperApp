@@ -1,0 +1,35 @@
+{
+    "AS_Button_j05ba4c014c34a5aababcaec51584138": {
+        "id": "AS_Button_j05ba4c014c34a5aababcaec51584138",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashbord",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j24ee47617c5456698cbe52c276bbaa7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_de177f79ee414ef28b33c81605792d44",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxHumbergerMenu.centerX = \"-100%\";",
+            "parentId": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__f51d0639597e4b7aa939be60fea39aab",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginSignup",
+            "friendlyName": "frmLoginSignup",
+            "formKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "projectName": "Infinitysuperapp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

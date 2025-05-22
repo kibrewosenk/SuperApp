@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3c13712957a49a99da615a7db1bf1b3",
+    "_text_": "Get Start Now",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s48545157fb3425391c6234b0d447f93",
+    "id": "btnSignup",
+    "ide_onClick": "AS_Button_b89547d680ff46e19643bc9081b173b6",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d12da0dec956472d9a5340e4e9e0dc91",
+    "name": "kony.ui.Button",
+    "parent": "flxLoginSignup",
+    "pf": "frmStartPage",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

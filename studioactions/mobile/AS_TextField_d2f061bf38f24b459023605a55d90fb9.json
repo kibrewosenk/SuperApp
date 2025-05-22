@@ -1,0 +1,31 @@
+{
+    "AS_TextField_d2f061bf38f24b459023605a55d90fb9": {
+        "id": "AS_TextField_d2f061bf38f24b459023605a55d90fb9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ad40e74bb42e434d8f3e29a03b62a0b3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "validateFormFill",
+            "display": "validateFormFill",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

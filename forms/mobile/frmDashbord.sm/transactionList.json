@@ -1,0 +1,261 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "saa8f729db7d44ffa61334e004cc02f2",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FlexScrollContainer0abf2db39cf624b": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f1df305b862a44b78edc7aacd9c242c7",
+                "srcKUID": "i5115f62f0d5458ba478062d3a63d003",
+                "wType": "FlexScrollContainer"
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "90%"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        },
+        "Segment0ee43d4c904d64c": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d2e7deb077014c2f81206b559478f934",
+                "srcKUID": "g5bbdf5576784b75a87aefe3e8deaa00",
+                "wType": "Segment"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "data": {
+                "mobile": [
+                    {
+                        "lblAccountNUmber": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10****1763"
+                        },
+                        "lblAccountName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Kibrewosen Kerie"
+                        },
+                        "lblAmount": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "-ETB 20,000"
+                        },
+                        "lblDate": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "22/May/2025"
+                        }
+                    },
+                    {
+                        "lblAccountNUmber": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10****1763"
+                        },
+                        "lblAccountName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Kibrewosen Kerie"
+                        },
+                        "lblAmount": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "-ETB 20,000"
+                        },
+                        "lblDate": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "22/May/2025"
+                        }
+                    },
+                    {
+                        "lblAccountNUmber": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10****1763"
+                        },
+                        "lblAccountName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Kibrewosen Kerie"
+                        },
+                        "lblAmount": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "-ETB 20,000"
+                        },
+                        "lblDate": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "22/May/2025"
+                        }
+                    },
+                    {
+                        "lblAccountNUmber": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10****1763"
+                        },
+                        "lblAccountName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Kibrewosen Kerie"
+                        },
+                        "lblAmount": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "-ETB 20,000"
+                        },
+                        "lblDate": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "22/May/2025"
+                        }
+                    },
+                    {
+                        "lblAccountNUmber": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10****1763"
+                        },
+                        "lblAccountName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Kibrewosen Kerie"
+                        },
+                        "lblAmount": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "-ETB 20,000"
+                        },
+                        "lblDate": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "22/May/2025"
+                        }
+                    },
+                    {
+                        "lblAccountNUmber": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10****1763"
+                        },
+                        "lblAccountName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Kibrewosen Kerie"
+                        },
+                        "lblAmount": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "-ETB 20,000"
+                        },
+                        "lblDate": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "22/May/2025"
+                        }
+                    },
+                    {
+                        "lblAccountNUmber": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "10****1763"
+                        },
+                        "lblAccountName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Kibrewosen Kerie"
+                        },
+                        "lblAmount": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "-ETB 20,000"
+                        },
+                        "lblDate": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "22/May/2025"
+                        }
+                    }
+                ]
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        },
+        "transactionList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "fcaf2eb9e08f4b1393d73329fda30a0d",
+                "srcKUID": "d81a26b526f6436a87d5aa872ef589bc",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            },
+            "isVisible": true
+        }
+    },
+    "enablescrolling": true,
+    "id": "transactionList",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "fcaf2eb9e08f4b1393d73329fda30a0d",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexScrollGroup0cc869404e55343",
+    "pf": "frmDashbord",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "d81a26b526f6436a87d5aa872ef589bc",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

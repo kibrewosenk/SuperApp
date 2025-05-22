@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3c13712957a49a99da615a7db1bf1b3",
+    "_text_": "I Agree",
+    "_top_": {
+        "type": "string",
+        "value": "2.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "47.01%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s48545157fb3425391c6234b0d447f93",
+    "id": "btnAgreeTerms",
+    "ide_onClick": "AS_Button_d1e606003218478eaabe9c331f833c38",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a2b3e698483844458d84f67ed8b5492d",
+    "name": "kony.ui.Button",
+    "parent": "sflxTerms",
+    "pf": "frmLoginSignup",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

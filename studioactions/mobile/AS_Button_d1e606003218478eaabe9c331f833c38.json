@@ -1,0 +1,57 @@
+{
+    "AS_Button_d1e606003218478eaabe9c331f833c38": {
+        "id": "AS_Button_d1e606003218478eaabe9c331f833c38",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__a49cba03a730452183013cfaafb830b3",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmLoginSignup",
+            "widgetId": "sflxTerms",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "widgetKUID": "h18f04e5d9204cf2929a6490f2e50eaf",
+            "isSkinProperty": false,
+            "wType": "FlexScrollContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.sflxTerms"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__j65cac719dc746a3bfc886210847685e",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmLoginSignup",
+            "widgetId": "imgCheckBox",
+            "propertyName": "src",
+            "propertyValue": "customcheckboxon.png",
+            "itemKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "widgetKUID": "g56af8f018cb4cde87a02cd546af79bf",
+            "isSkinProperty": false,
+            "wType": "Image",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.imgCheckBox"
+        }, {
+            "id": "INVOKE_FUNCTION__eb8d62c6fdb94721a62c00e677f94130",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "validateFormFill",
+            "display": "validateFormFill",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

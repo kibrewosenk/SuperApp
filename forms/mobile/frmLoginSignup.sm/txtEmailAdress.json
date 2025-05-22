@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter your email",
+    "_skin_": "sbb35f1a90cc4da5a0c0a34daf1f776e",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sbb35f1a90cc4da5a0c0a34daf1f776e",
+    "id": "txtEmailAdress",
+    "ide_onDone": "AS_TextField_i973da2c8f9d43f791e10b66fc5e409d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardstyle": "emailpad",
+    "keyboardtype": "A",
+    "kuid": "cdc25cef40304564b1ee3656585e5465",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxEmailAdressIn",
+    "pf": "frmLoginSignup",
+    "placeholderskin": "s156cb08161e408e914c19c1556bfcd3",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField"
+}

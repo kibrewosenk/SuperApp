@@ -1,0 +1,70 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb6ee3f18cce4553afe8f66de951bdd5",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxFullName",
+        "flxEmailAdress",
+        "flxPhoneNumber",
+        "flxGender",
+        "flxDateOfBirth",
+        "flxPassword",
+        "flxConfirmPasswod",
+        "flxTermsAndCondtions"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxSignupForm",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eae9b0a121a34e63997617b3399ae7eb",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "sflxSignup",
+    "pf": "frmLoginSignup",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

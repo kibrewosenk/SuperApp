@@ -1,0 +1,18 @@
+{
+    "AS_Form_g01f2eff68ce40719245d5bb55c77077": {
+        "id": "AS_Form_g01f2eff68ce40719245d5bb55c77077",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

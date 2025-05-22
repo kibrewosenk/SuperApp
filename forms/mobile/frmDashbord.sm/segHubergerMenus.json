@@ -1,0 +1,135 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "lblHumbegerOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Accounts"
+            }
+        },
+        {
+            "lblHumbegerOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer"
+            }
+        },
+        {
+            "lblHumbegerOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bills"
+            }
+        },
+        {
+            "lblHumbegerOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transactions"
+            }
+        },
+        {
+            "lblHumbegerOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Exchange Rate"
+            }
+        },
+        {
+            "lblHumbegerOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Setting"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "h0160680f5da40b7b0e193c7279e7237",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segHubergerMenus",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j8c3a011cb6e48bb9650fec990ef263d",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxHumbergerBody",
+    "pf": "frmDashbord",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "h0160680f5da40b7b0e193c7279e7237",
+    "rowcounter": 5,
+    "rowfocusskin": "sd94b6f0506645a5984d36f25397e231",
+    "rowskin": "sa04ff0390b64a4d81a0767be2965dc2",
+    "rowtemplate": "FBox0bf5f0889b0a94e",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0a6331dfb1044239c0167f916124a1b",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "lblHumbegerOptions": "lblHumbegerOptions"
+    }
+}

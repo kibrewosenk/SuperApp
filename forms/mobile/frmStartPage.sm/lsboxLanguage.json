@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Select Language",
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "sa639602dc2940d289c66b17838ae417",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s21aaccc65254a7c85d448b62d1a2127",
+    "groupcells": false,
+    "id": "lsboxLanguage",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "hb47abf57a134b1aac9c2e13b34a9083",
+    "masterdata": [
+        [
+            "lb1",
+            "English US"
+        ],
+        [
+            "lb2",
+            "Affan Oromo ET"
+        ],
+        [
+            "lb3",
+            "Amharic ET"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxPage2",
+    "pf": "frmStartPage",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "English US"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "tickedimage": "",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

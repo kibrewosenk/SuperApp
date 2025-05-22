@@ -1,0 +1,83 @@
+{
+    "AS_Button_cb0dfacd4ecb4b1397c568875004b52b": {
+        "id": "AS_Button_cb0dfacd4ecb4b1397c568875004b52b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__a2fdab8391d44602af573c752cf4a400",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmLoginSignup",
+            "widgetId": "sflxTerms",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "widgetKUID": "h18f04e5d9204cf2929a6490f2e50eaf",
+            "isSkinProperty": false,
+            "wType": "FlexScrollContainer",
+            "forkedPlatform": "all",
+            "parentId": "_e097761f14904748b2d59ed9d4847a5d",
+            "widgetPath": "this.view.sflxTerms"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__be6315230fd2460ebf63c6ad7861f5fe",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmLoginSignup",
+            "widgetId": "imgCheckBox",
+            "propertyName": "src",
+            "propertyValue": "customtchecknbosoff.png",
+            "itemKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "widgetKUID": "g56af8f018cb4cde87a02cd546af79bf",
+            "isSkinProperty": false,
+            "wType": "Image",
+            "forkedPlatform": "all",
+            "parentId": "_c2aaf0e1e94840429044fe6ab8b537f8",
+            "widgetPath": "this.view.imgCheckBox"
+        }, {
+            "id": "INVOKE_FUNCTION__b6cabca10e934ab9b28480583cf39561",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "validateFormFill",
+            "display": "validateFormFill",
+            "inputparams": [],
+            "parentId": "_c2aaf0e1e94840429044fe6ab8b537f8",
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "_c2aaf0e1e94840429044fe6ab8b537f8",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "this.view.imgCheckBox.src",
+                "operator": "===",
+                "rightValueType": "value",
+                "rightValue": "\"customcheckboxon.png\"",
+                "leftItemKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+                "leftWidgetKUID": "g56af8f018cb4cde87a02cd546af79bf"
+            }],
+            "parentId": null,
+            "criteria": "all"
+        }, {
+            "id": "_e097761f14904748b2d59ed9d4847a5d",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "criteria": "all"
+        }]
+    }
+}

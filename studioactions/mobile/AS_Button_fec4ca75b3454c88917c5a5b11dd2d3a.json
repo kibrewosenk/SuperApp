@@ -1,0 +1,68 @@
+{
+    "AS_Button_fec4ca75b3454c88917c5a5b11dd2d3a": {
+        "id": "AS_Button_fec4ca75b3454c88917c5a5b11dd2d3a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStartPage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e9cef8930d194ac5a611d133d6613e80"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__f9b7aa50a20449309dfd31738bc8c174",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginSignup",
+            "friendlyName": "frmLoginSignup",
+            "formKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "projectName": "Infinitysuperapp",
+            "mappings": {
+                "ME_Mapping_hd3699a85d6d4d9bb2d1623b8a1417cf": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_hd3699a85d6d4d9bb2d1623b8a1417cf",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Variables",
+                        "propertyName": "isLogin",
+                        "propertyKey": "variable_isLogin",
+                        "dataType": "number",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "forkedPlatform": "all"
+                    }
+                },
+                "ME_Mapping_b33996189e504a5b92c7953d15adf395": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_b33996189e504a5b92c7953d15adf395",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Variables",
+                        "propertyName": "isSignup",
+                        "propertyKey": "variable_isSignup",
+                        "dataType": "number",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "forkedPlatform": "all"
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_hd3699a85d6d4d9bb2d1623b8a1417cf", "ME_Mapping_b33996189e504a5b92c7953d15adf395"],
+            "parentId": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "enableNavigationObj": false,
+            "navigationObj": "{\n    \"variable_isLogin\": isLogin,\n    \"variable_isSignup\": isSignup,\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnLogin\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

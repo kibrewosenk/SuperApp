@@ -1,0 +1,23 @@
+{
+    "AS_Form_e46444d7126a4e80b4c7463800c73664": {
+        "id": "AS_Form_e46444d7126a4e80b4c7463800c73664",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_a13fca40b3cc4c688d850d36307c3ac1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var self = this;\nif(isLogin == 1){\n      self.view.sflxLoginSignup.setContentOffset({ \n  \"x\": \"100%\",\n    \"y\": \"0%\",\n    }, true\n);\n\n  \n}\nelse{\n   self.view.sflxLoginSignup.setContentOffset({ \n  \"x\": \"0%\",\n    \"y\": \"0%\",\n    }, true\n);\n  \n}",
+            "parentId": null
+        }]
+    }
+}

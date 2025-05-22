@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_skin_": "s35af248149c450898c4830e901feb69",
+    "_text_": "Alrady have user?",
+    "_top_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s176e0a7801c44bdae8cb6333510345b"
+    },
+    "displaytext": true,
+    "id": "btnLogin",
+    "ide_onClick": "AS_Button_eb522ed3b0bc48b0b595fdd9481d151f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d8d31a77fece404480046897c77e686c",
+    "name": "kony.ui.Button",
+    "parent": "flxLoginSignup",
+    "pf": "frmStartPage",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

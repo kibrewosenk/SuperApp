@@ -1,0 +1,23 @@
+{
+    "AS_Button_cb9aa2892a6547a5b528a956ffd1f6e9": {
+        "id": "AS_Button_cb9aa2892a6547a5b528a956ffd1f6e9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashbord",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j24ee47617c5456698cbe52c276bbaa7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_a66cbd7560d3419c86d557e8b29ec102",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (kony.theme.getCurrentTheme() != \"Dark\") {\n        kony.theme.setCurrentTheme(\"Dark\", function() {\n        }, null);\n    } else {\n      kony.theme.setCurrentTheme(\"Normal\", function() {\n        }, null);\n    }",
+            "parentId": null
+        }]
+    }
+}

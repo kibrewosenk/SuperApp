@@ -1,0 +1,57 @@
+{
+    "AS_Button_je39694046d746d9adbfb9651f717872": {
+        "id": "AS_Button_je39694046d746d9adbfb9651f717872",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__c34b3f2653f84338aff013349925572b",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmLoginSignup",
+            "widgetId": "sflxSignup",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "widgetKUID": "aae3a1351ffc4e338db321866b1cf6bd",
+            "isSkinProperty": false,
+            "wType": "FlexScrollContainer",
+            "forkedPlatform": "all",
+            "widgetPath": "this.view.sflxSignup"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__db26b51ccb234e71ba8ff0c4e86cf662",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmLoginSignup",
+            "widgetId": "flxBioOption",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "widgetKUID": "fab8e0851e8644c4987eb9655e312af4",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "widgetPath": "this.view.flxBioOption"
+        }, {
+            "id": "NAVIGATE_TO_FORM__ff60d8cdd2c34e52a1a4d5af0b4111c6",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashbord",
+            "formKUID": "j24ee47617c5456698cbe52c276bbaa7",
+            "projectName": "Infinitysuperapp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

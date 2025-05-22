@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3c13712957a49a99da615a7db1bf1b3",
+    "_text_": "Create Account",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "enablehapticfeedback": false,
+    "focusskin": "s35af248149c450898c4830e901feb69",
+    "id": "btnCreateAccount",
+    "ide_onClick": "AS_Button_f2a3cc887fef4d05a5d5955b1d2a6458",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h9635458af96463b8e6a9bbee13f8536",
+    "name": "kony.ui.Button",
+    "parent": "sflxSignup",
+    "pf": "frmLoginSignup",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_gfde9fe41c28462883557db7c2b94e07": {
+        "id": "AS_FlexContainer_gfde9fe41c28462883557db7c2b94e07",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStartPage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e9cef8930d194ac5a611d133d6613e80"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_g779d047d6034323bad433d529763329",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " self.view.sflxStartPage.setContentOffset({ \n  \"x\": \"100%\",\n    \"y\": \"0%\",\n    }, true\n);",
+            "parentId": null
+        }]
+    }
+}

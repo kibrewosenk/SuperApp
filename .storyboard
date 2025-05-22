@@ -1,0 +1,145 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__f51d0639597e4b7aa939be60fea39aab",
+                    "actionSequenceId": "AS_Button_j05ba4c014c34a5aababcaec51584138",
+                    "beautifiedPath": "frmDashbord > btnLogout > onClick",
+                    "evt": "ide_onClick",
+                    "from": "j24ee47617c5456698cbe52c276bbaa7",
+                    "isPSP": false,
+                    "points": [
+                        188,
+                        337.95449218749997,
+                        178,
+                        337.95449218749997,
+                        178,
+                        337.95449218749997,
+                        178,
+                        396,
+                        88,
+                        396,
+                        88,
+                        606.7544921875,
+                        88,
+                        624.7544921875
+                    ],
+                    "to": "hf427d2c3d9d486eb2069bc3f45fe499",
+                    "widgetKUID": "ia13b16e08d24468ae9a6c95bf5096fd"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__ff60d8cdd2c34e52a1a4d5af0b4111c6",
+                    "actionSequenceId": "AS_Button_je39694046d746d9adbfb9651f717872",
+                    "beautifiedPath": "frmLoginSignup > btnLogin > onClick",
+                    "evt": "ide_onClick",
+                    "from": "hf427d2c3d9d486eb2069bc3f45fe499",
+                    "isPSP": false,
+                    "points": [
+                        128,
+                        624.7544921875,
+                        128,
+                        614.7544921875,
+                        128,
+                        612,
+                        128,
+                        612,
+                        128,
+                        604,
+                        268,
+                        604,
+                        268,
+                        501.15449218749995,
+                        268,
+                        491.15449218749995
+                    ],
+                    "to": "j24ee47617c5456698cbe52c276bbaa7",
+                    "widgetKUID": "g293e171ca454887928df9237866f9ae"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__i9e9a42df0e94406801888699ad611fe",
+                    "actionSequenceId": "AS_Button_b89547d680ff46e19643bc9081b173b6",
+                    "beautifiedPath": "frmStartPage > btnSignup > onClick",
+                    "evt": "ide_onClick",
+                    "from": "e9cef8930d194ac5a611d133d6613e80",
+                    "isPSP": false,
+                    "points": [
+                        88,
+                        331.15449218749995,
+                        88,
+                        341.15449218749995,
+                        88,
+                        341.15449218749995,
+                        116,
+                        341.15449218749995,
+                        116,
+                        396,
+                        88,
+                        396,
+                        88,
+                        614.7544921875,
+                        88,
+                        624.7544921875
+                    ],
+                    "to": "hf427d2c3d9d486eb2069bc3f45fe499",
+                    "widgetKUID": "d12da0dec956472d9a5340e4e9e0dc91"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__d66198b7f96d4078af417381858a3dd4",
+                    "actionSequenceId": "AS_Button_eb522ed3b0bc48b0b595fdd9481d151f",
+                    "beautifiedPath": "frmStartPage > btnLogin > onClick",
+                    "evt": "ide_onClick",
+                    "from": "e9cef8930d194ac5a611d133d6613e80",
+                    "isPSP": false,
+                    "points": [
+                        88,
+                        330.15449218749995,
+                        88,
+                        340.15449218749995,
+                        88,
+                        340.15449218749995,
+                        180,
+                        340.15449218749995,
+                        180,
+                        396,
+                        88,
+                        396,
+                        88,
+                        614.7544921875,
+                        88,
+                        624.7544921875
+                    ],
+                    "to": "hf427d2c3d9d486eb2069bc3f45fe499",
+                    "widgetKUID": "d8d31a77fece404480046897c77e686c"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "j24ee47617c5456698cbe52c276bbaa7",
+                    "formName": "frmDashbord",
+                    "isStartupForm": false,
+                    "key": "j24ee47617c5456698cbe52c276bbaa7",
+                    "loc": "188 184.7544921875",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+                    "formName": "frmLoginSignup",
+                    "isStartupForm": false,
+                    "key": "hf427d2c3d9d486eb2069bc3f45fe499",
+                    "loc": "8 624.7544921875",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "e9cef8930d194ac5a611d133d6613e80",
+                    "formName": "frmStartPage",
+                    "isStartupForm": true,
+                    "key": "e9cef8930d194ac5a611d133d6613e80",
+                    "loc": "8 24.7544921875",
+                    "thumbnailURL": null
+                }
+            ]
+        }
+    }
+}

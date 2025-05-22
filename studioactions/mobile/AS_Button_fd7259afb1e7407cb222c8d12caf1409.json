@@ -1,0 +1,23 @@
+{
+    "AS_Button_fd7259afb1e7407cb222c8d12caf1409": {
+        "id": "AS_Button_fd7259afb1e7407cb222c8d12caf1409",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_h2e057d66fc647c784b59ede59eaf817",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "    self.view.sflxLoginSignup.setContentOffset({ \n  \"x\": \"100%\",\n    \"y\": \"0%\",\n    }, true\n);\n\n  ",
+            "parentId": null
+        }]
+    }
+}
