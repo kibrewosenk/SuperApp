@@ -1,0 +1,40 @@
+{
+    "AS_Button_b161bb988fe0455fb819bb18bd2ec2c8": {
+        "id": "AS_Button_b161bb988fe0455fb819bb18bd2ec2c8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY___cddab31c126246e0ac695b20c064c936",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmLoginSignup",
+            "widgetId": "btnCreateAccount",
+            "propertyName": "skin",
+            "propertyValue": "defBtnNormal",
+            "itemKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "widgetKUID": "h9635458af96463b8e6a9bbee13f8536",
+            "skinKUID": "s76b2b1ed6c84dbb8c53264987c36688",
+            "isSkinProperty": true,
+            "wType": "Button",
+            "currentTheme": "Normal",
+            "forkedPlatform": "all",
+            "widgetPath": "this.view.btnCreateAccount"
+        }]
+    }
+}

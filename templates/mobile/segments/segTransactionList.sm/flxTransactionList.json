@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "30%"
+        "value": "33%"
     },
     "_left_": {
         "type": "string",
@@ -39,7 +39,7 @@
         "flxAccountAndAmount",
         "lblAccountName"
     ],
-    "clipbounds": false,
+    "clipbounds": true,
     "containerId": true,
     "containerweight": 100,
     "controllerInfo": {
@@ -48,22 +48,24 @@
             "name": "flxTransactionListController"
         }
     },
+    "defaultunit": 3,
     "enablescrolling": true,
+    "friendlyName": "flxTransactionList",
     "id": "flxTransactionList",
     "info": null,
     "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "g8f3e3e43a28436a90c6d07642f62d82",
-    "layouttype": 4,
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "segTransactionList",
     "pf": "segTransactionList",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "snapgridsize": 10,
-    "snaptogrid": true,
+    "snapgridsize": "100",
+    "snaptogrid": false,
     "wType": "FlexContainer",
     "widgetalignment": 1
 }

@@ -62,7 +62,7 @@
     "layouttype": 3,
     "name": "kony.ui.FlexScrollContainer",
     "pagingenabled": true,
-    "parent": "FlexScrollGroup0cc869404e55343",
+    "parent": "sflxOffersandTransationsList",
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

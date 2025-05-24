@@ -18,6 +18,24 @@
             "type": "ADD_SNIPPET",
             "codeSnippet": "this.view.btnCreateAccount.setEnabled= false;\nthis.view.btnCreateAccount.skin = sknTranspart;",
             "parentId": null
+        }, {
+            "id": "INVOKE_FUNCTION__cff2302e5019412dbd744e31b48f814f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "userRepo",
+            "display": "userRepo",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "INVOKE_FUNCTION__de25394960fb4a1eb767126b1125fbd6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "autoNav",
+            "display": "autoNav",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

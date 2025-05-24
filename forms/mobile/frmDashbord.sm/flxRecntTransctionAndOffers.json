@@ -40,7 +40,7 @@
     },
     "children": [
         "flxRecentTransactions",
-        "FlexScrollGroup0cc869404e55343"
+        "sflxOffersandTransationsList"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -61,5 +61,5 @@
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 5
 }

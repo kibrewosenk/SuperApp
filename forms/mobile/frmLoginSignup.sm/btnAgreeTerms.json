@@ -55,5 +55,6 @@
     "pf": "frmLoginSignup",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "i18n.signup.btnAgreeTerms",
     "wType": "Button"
 }

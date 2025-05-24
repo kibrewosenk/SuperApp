@@ -2,8 +2,8 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "_height_": {
-        "type": "string",
-        "value": "90%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_left_": {
         "type": "string",
@@ -23,10 +23,6 @@
     ],
     "_skin_": "s6fcdad1524c43fd82e841574f52cee4",
     "_text_": "Label",
-    "_top_": {
-        "type": "number",
-        "value": "0"
-    },
     "_width_": {
         "type": "string",
         "value": "60%"
@@ -39,7 +35,10 @@
         }
     },
     "canUpdateUI": true,
-    "containerId": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 4,
     "id": "lblAccountNUmber",

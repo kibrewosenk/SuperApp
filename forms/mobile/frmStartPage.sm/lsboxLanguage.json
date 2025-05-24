@@ -28,16 +28,17 @@
         "value": "2%"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "30%"
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "contentalignment": 6,
+    "contentalignment": 4,
     "dropdownimage": "listboxarw.png",
     "focusskin": "s21aaccc65254a7c85d448b62d1a2127",
     "groupcells": false,
     "id": "lsboxLanguage",
+    "ide_onSelection": "AS_ListBox_h262480b8cbd472e97bafa9e0f319066",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
@@ -61,12 +62,8 @@
     "pf": "frmStartPage",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "selectedkey": "lb1",
     "selectedkeys": null,
-    "selectedkeyvalue": [
-        "lb1",
-        "English US"
-    ],
+    "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
     "tickedimage": "",

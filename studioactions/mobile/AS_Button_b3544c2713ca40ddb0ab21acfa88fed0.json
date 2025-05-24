@@ -1,0 +1,23 @@
+{
+    "AS_Button_b3544c2713ca40ddb0ab21acfa88fed0": {
+        "id": "AS_Button_b3544c2713ca40ddb0ab21acfa88fed0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashbord",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j24ee47617c5456698cbe52c276bbaa7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ae780f9089b6487eab34511b8e01754d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " self.view.flxRecntTransctionAndOffers.centerY = \"50%\";\n self.view.flxRecntTransctionAndOffers.height = \"100%\";\n self.view.transactionList.zIndex = 5;\n\n\t",
+            "parentId": null
+        }]
+    }
+}

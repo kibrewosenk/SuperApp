@@ -26,7 +26,7 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "lblHumbegerOptions"
+        "flxRows"
     ],
     "clipbounds": false,
     "containerId": true,

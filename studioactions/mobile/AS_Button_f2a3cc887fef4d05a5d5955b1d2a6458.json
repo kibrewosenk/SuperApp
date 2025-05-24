@@ -23,6 +23,16 @@
             "callbackType": null,
             "disabled": null,
             "source": "controller"
+        }, {
+            "id": "INVOKE_FUNCTION__ibe27dd2e70c4e06bd8a462f12d3964d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "signup",
+            "display": "signup",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

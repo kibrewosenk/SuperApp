@@ -3,11 +3,11 @@
     "DNDConfig": null,
     "_bottom_": {
         "type": "string",
-        "value": "5%"
+        "value": "0"
     },
     "_height_": {
-        "type": "string",
-        "value": "15%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_left_": {
         "type": "string",
@@ -27,10 +27,6 @@
     ],
     "_skin_": "se6c326f6bf74d05b730b7657177a8dd",
     "_text_": "Label",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
         "type": "string",
         "value": "100%"
@@ -45,7 +41,7 @@
     "canUpdateUI": true,
     "containerId": true,
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 1,
     "id": "lblAccountName",
     "info": null,
     "ipad": {

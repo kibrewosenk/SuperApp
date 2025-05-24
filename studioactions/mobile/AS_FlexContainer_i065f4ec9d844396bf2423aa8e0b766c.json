@@ -16,7 +16,7 @@
         "actions": [{
             "id": "ADD_SNIPPET_c9a5a5d42f1b4012a6e9ca10ffd3c170",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "if(this.view.lblSeeAllRecentTransactions.text == \"See All\"){\n  this.view.lblSeeAllRecentTransactions.text = \"Hide All\";\n  self.view.transactionList.isVisible = true;\n  self.view.sflxOffers.isVisible = false;\n}\nelse{\n    this.view.lblSeeAllRecentTransactions.text = \"See All\";\n  \tself.view.transactionList.isVisible = false;\n  self.view.sflxOffers.isVisible = true;\n\n}",
+            "codeSnippet": "if(this.view.lblSeeAllRecentTransactions.text == \"See All\"){\n  this.view.lblSeeAllRecentTransactions.text = \"Hide All\";\n  self.view.transactionList.isVisible = true;\n  self.view.sflxOffers.isVisible = false;\n}\nelse{\n    this.view.lblSeeAllRecentTransactions.text = \"See All\";\n  \tself.view.transactionList.isVisible = false;\n  self.view.sflxOffers.isVisible = true;\n}",
             "parentId": null
         }]
     }

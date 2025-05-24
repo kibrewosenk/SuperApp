@@ -65,6 +65,7 @@
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "i18n.dashbord.lblQuickServiceList",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label"

@@ -2,8 +2,8 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "_height_": {
-        "type": "string",
-        "value": "15%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_left_": {
         "type": "string",
@@ -25,7 +25,7 @@
     "_text_": "Label",
     "_top_": {
         "type": "string",
-        "value": "5%"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerId": true,
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 7,
     "id": "lblDate",
     "info": null,
     "ipad": {

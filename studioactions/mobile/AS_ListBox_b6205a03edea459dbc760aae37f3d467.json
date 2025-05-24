@@ -1,0 +1,28 @@
+{
+    "AS_ListBox_b6205a03edea459dbc760aae37f3d467": {
+        "id": "AS_ListBox_b6205a03edea459dbc760aae37f3d467",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__e4b2eefebd9c4e398881d9e23e54f557",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeLanguage",
+            "display": "changeLanguage",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

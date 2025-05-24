@@ -1,16 +1,12 @@
 {
     "DNDConfig": null,
-    "_bottom_": {
-        "type": "string",
-        "value": "0"
-    },
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "80%"
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -27,6 +23,10 @@
     ],
     "_percent_": true,
     "_skin_": "se75b32eb6b442ae8520e9cda68df8ef",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
     "_width_": {
         "type": "string",
         "value": "100%"
@@ -36,16 +36,9 @@
     "allowverticalbounce": true,
     "bounces": true,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
     "children": [
-        "Segment0ee43d4c904d64c"
+        "transactionList",
+        "sflxOffers"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -53,16 +46,16 @@
     "dragg": false,
     "enablescrolling": true,
     "horizontalscrollindicator": true,
-    "id": "FlexScrollContainer0abf2db39cf624b",
+    "id": "sflxOffersandTransationsList",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i5115f62f0d5458ba478062d3a63d003",
-    "layouttype": 2,
+    "kuid": "f336d639e03f4a0ba252018e4d602d67",
+    "layouttype": 4,
     "name": "kony.ui.FlexScrollContainer",
     "pagingenabled": false,
-    "parent": "transactionList",
-    "pf": "userwidgetmodel",
+    "parent": "flxRecntTransctionAndOffers",
+    "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

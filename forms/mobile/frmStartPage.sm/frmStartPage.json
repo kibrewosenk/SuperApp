@@ -56,6 +56,7 @@
     "enabledforidletimeout": false,
     "friendlyName": "frmStartPage",
     "id": "frmStartPage",
+    "ide_init": "AS_Form_a508affc4bed4a32bce9a2e1ba99be06",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

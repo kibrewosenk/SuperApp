@@ -1,0 +1,28 @@
+{
+    "AS_ListBox_bec70f39b72742dc95b5b115f9096053": {
+        "id": "AS_ListBox_bec70f39b72742dc95b5b115f9096053",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStartPage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e9cef8930d194ac5a611d133d6613e80"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__eb89771faf544e269d70ccd26d1a3e60",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "languageChange",
+            "display": "languageChange",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -3,39 +3,63 @@
     "DNDConfig": null,
     "_data_": [
         {
+            "imgRows": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "lblHumbegerOptions": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Accounts"
+                "text": "Label"
             }
         },
         {
+            "imgRows": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "lblHumbegerOptions": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Transfer"
+                "text": "Label"
             }
         },
         {
+            "imgRows": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "lblHumbegerOptions": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Bills"
+                "text": "Label"
             }
         },
         {
+            "imgRows": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "lblHumbegerOptions": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Transactions"
+                "text": "Label"
             }
         },
         {
+            "imgRows": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "lblHumbegerOptions": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Exchange Rate"
+                "text": "Label"
             }
         },
         {
+            "imgRows": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "lblHumbegerOptions": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Setting"
+                "text": "Label"
             }
         }
     ],
@@ -130,6 +154,8 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
+        "flxRows": "flxRows",
+        "imgRows": "imgRows",
         "lblHumbegerOptions": "lblHumbegerOptions"
     }
 }

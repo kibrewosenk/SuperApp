@@ -35,7 +35,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "FlexScrollContainer0abf2db39cf624b"
+        "sflxTransactionList"
     ],
     "clipbounds": false,
     "containerweight": 100,

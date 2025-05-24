@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "SearchTransaction",
+    "_skin_": "sbb35f1a90cc4da5a0c0a34daf1f776e",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sf4f8a64addd4ee6b77f175ccc47b993",
+    "id": "txtTranscationSearch",
+    "ide_onTextChange": "AS_TextField_e70d550fe8dd4d1ba5539451b6848547",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "a5285472b0024e9bac05be70341f22f9",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxTransactionSearch",
+    "pf": "frmDashbord",
+    "placeholderskin": "s156cb08161e408e914c19c1556bfcd3",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField"
+}

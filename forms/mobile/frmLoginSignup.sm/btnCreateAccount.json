@@ -52,5 +52,6 @@
     "pf": "frmLoginSignup",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "i18n.signup.btnCreateAccount",
     "wType": "Button"
 }

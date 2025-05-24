@@ -37,7 +37,7 @@
     "bounces": true,
     "canUpdateUI": true,
     "children": [
-        "RichText0f11050539df642"
+        "rtxtTermsAndCondtions"
     ],
     "clipbounds": true,
     "containerweight": 100,

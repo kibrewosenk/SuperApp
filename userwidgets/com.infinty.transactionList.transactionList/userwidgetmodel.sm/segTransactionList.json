@@ -43,7 +43,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "49%"
     },
     "centery": {
         "type": "string",
@@ -55,7 +55,7 @@
     "focuseditem": null,
     "groupcells": false,
     "hasSections": false,
-    "id": "Segment0ee43d4c904d64c",
+    "id": "segTransactionList",
     "info": null,
     "ipad": {
         "psp": {
@@ -272,7 +272,7 @@
     "paginationconfig": {
         "position": "bottom"
     },
-    "parent": "FlexScrollContainer0abf2db39cf624b",
+    "parent": "sflxTransactionList",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

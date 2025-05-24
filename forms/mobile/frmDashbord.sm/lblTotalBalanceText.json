@@ -61,6 +61,7 @@
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "i18ndashbord.lblTotalBalanceText",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label"

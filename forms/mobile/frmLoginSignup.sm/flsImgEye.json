@@ -45,6 +45,7 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flsImgEye",
+    "ide_onClick": "AS_FlexContainer_d7a7dc38fa3a4355a5fb3b04e9d9a8c0",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

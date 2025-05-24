@@ -51,5 +51,6 @@
     "pf": "frmStartPage",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "i18n.startpage.signup",
     "wType": "Button"
 }

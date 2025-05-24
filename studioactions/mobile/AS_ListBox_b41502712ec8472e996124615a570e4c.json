@@ -1,0 +1,36 @@
+{
+    "AS_ListBox_b41502712ec8472e996124615a570e4c": {
+        "id": "AS_ListBox_b41502712ec8472e996124615a570e4c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStartPage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e9cef8930d194ac5a611d133d6613e80"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_hb47711f799a446d8814a3074fd294f9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (this.view.lsboxLanguage.selectedKey == \"lb1\") {\n        kony.i18n.setCurrentLocaleAsync(\"en_US\", this.onsuccesscallback, this.onfailurecallback);\n    } else if (this.view.lsboxLanguage.selectedKey == \"lb2\") {\n        kony.i18n.setCurrentLocaleAsync(\"oro_ET\", this.onsuccesscallback, this.onfailurecallback);\n    } else if (this.view.lsboxLanguage.selectedKey == \"lb3\") {\n        kony.i18n.setCurrentLocaleAsync(\"amh_ET\", this.onsuccesscallback, this.onfailurecallback);\n    }\n// kony.application.destroyForm(\"frmStartPage\");",
+            "parentId": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__d3f2e3dd43ed44599185215abc00191e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginSignup",
+            "friendlyName": "frmLoginSignup",
+            "formKUID": "hf427d2c3d9d486eb2069bc3f45fe499",
+            "projectName": "Infinitysuperapp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -22,48 +22,47 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "se75b32eb6b442ae8520e9cda68df8ef",
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s69a5d5c453043ac94c760601279f94b",
     "_top_": {
         "type": "string",
         "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "30%"
     },
     "allboxes": [],
-    "allowhorizontalbounce": false,
-    "allowverticalbounce": true,
-    "bounces": true,
+    "autogrowmode": 0,
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "transactionList",
-        "sflxOffers"
+        "txtTranscationSearch",
+        "imgSearchTransaction"
     ],
-    "clipbounds": true,
+    "clipbounds": false,
     "containerweight": 100,
-    "decelerat": false,
-    "dragg": false,
     "enablescrolling": true,
-    "horizontalscrollindicator": true,
-    "id": "FlexScrollGroup0cc869404e55343",
+    "id": "flxTransactionSearch",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f336d639e03f4a0ba252018e4d602d67",
-    "layouttype": 4,
-    "name": "kony.ui.FlexScrollContainer",
-    "pagingenabled": false,
-    "parent": "flxRecntTransctionAndOffers",
+    "kuid": "a6a4d7c351e3466c85d3308fca36418b",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxRecentTransactions",
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "scrolldirection": 2,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "track": false,
-    "verticalscrollindicator": true,
-    "wType": "FlexScrollContainer",
+    "wType": "FlexContainer",
     "widgetalignment": 1
 }

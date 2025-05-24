@@ -1,0 +1,38 @@
+{
+    "AS_Form_a508affc4bed4a32bce9a2e1ba99be06": {
+        "id": "AS_Form_a508affc4bed4a32bce9a2e1ba99be06",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStartPage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e9cef8930d194ac5a611d133d6613e80"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__f9de73cf2c7848919269c4214fca5e5a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setpreuser",
+            "display": "setpreuser",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "INVOKE_FUNCTION__gb013de1755d45a1984fd5004bfb29bb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "autoNav",
+            "display": "autoNav",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

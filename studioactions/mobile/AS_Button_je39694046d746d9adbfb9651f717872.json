@@ -52,6 +52,14 @@
             "enableMappingEditor": true,
             "package": "",
             "isCustomInput": false
+        }, {
+            "id": "INVOKE_FUNCTION__h08c0b8c03874053a706e290269181a0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "userRepo",
+            "display": "userRepo",
+            "inputparams": [],
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

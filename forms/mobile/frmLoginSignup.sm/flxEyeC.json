@@ -45,6 +45,7 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flxEyeC",
+    "ide_onClick": "AS_FlexContainer_dcded43db59c41878afdf808168bae01",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

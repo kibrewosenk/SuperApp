@@ -22,7 +22,7 @@
         0
     ],
     "_skin_": "sb0d1a54f46d4684ba0d5711fddda8d1",
-    "_text_": "kjsdfskdjf",
+    "_text_": "",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -45,7 +45,7 @@
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label0b2d80c915baa47",
+    "id": "lblErroerMessage",
     "info": null,
     "ipad": {
         "psp": {

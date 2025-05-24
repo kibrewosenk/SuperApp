@@ -41,7 +41,7 @@
     "displaytext": true,
     "focusskin": "s48545157fb3425391c6234b0d447f93",
     "id": "btnLogin",
-    "ide_onClick": "AS_Button_je39694046d746d9adbfb9651f717872",
+    "ide_onClick": "AS_Button_c2e7c3e4f49c42fc969a554be81835a2",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
@@ -51,5 +51,6 @@
     "pf": "frmLoginSignup",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "i18n.login.btnLogin",
     "wType": "Button"
 }

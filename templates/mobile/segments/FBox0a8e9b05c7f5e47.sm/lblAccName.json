@@ -21,6 +21,10 @@
         0,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
     "_skin_": "s028e052e4254575ba7b6fc7b459ac12",
     "_text_": "Label",
     "_width_": {
@@ -44,7 +48,7 @@
     },
     "containerId": true,
     "containerweight": 100,
-    "contentalignment": 6,
+    "contentalignment": 5,
     "id": "lblAccName",
     "info": null,
     "ipad": {

@@ -110,7 +110,8 @@
                 "kuid": "c7d3b4776da3477aae096445361d683b",
                 "srcKUID": "id74fb23b98c49a48cff7e512a7d4b8e",
                 "wType": "Image"
-            }
+            },
+            "src": "option2.png"
         },
         "imgRow4": {
             "__events__": {},
@@ -126,7 +127,8 @@
                 "kuid": "e3588c253a7846cea0aa318a18f25176",
                 "srcKUID": "fbca8b13aec942aea9d8e2fe8436281d",
                 "wType": "Label"
-            }
+            },
+            "text": "Home"
         },
         "lblRow": {
             "__events__": {},

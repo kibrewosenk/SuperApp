@@ -1,0 +1,26 @@
+{
+    "AS_TextField_j8a3722acf5049d8a48371349229da7f": {
+        "id": "AS_TextField_j8a3722acf5049d8a48371349229da7f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmDashbord",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j24ee47617c5456698cbe52c276bbaa7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_h8d7fc1b80034348baf910e6855e022a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.transactionList.segTransactionList.searchText(\n [{\n   \"textToSearch\": this.view.txtTranscationSearch.text,\n   \"caseSensitive\": false,\n   \"searchType\": constants.SEGUI_SEARCH_CRITERIA_CONTAINS,\n   \"searchableWidgets\": [\"lblDate\",\"lblAccountNUmber\",\"lblAmount\",\"lblAccountName\"]\n  }], {//config parameter\n\n  \"updateSegment\": true,\n  \"showHeaderFooter\": true\n  });",
+            "parentId": null
+        }]
+    }
+}
