@@ -18,7 +18,7 @@
     "_pxMenuIndex": [
         0,
         1,
-        1
+        2
     ],
     "_skin_": "sbe77d7ecdcf4beda2e6d6a470b6e7ef",
     "_title_": null,
@@ -38,7 +38,9 @@
     },
     "canUpdateUI": true,
     "children": [
-        "sflxLoginSignup"
+        "sflxLoginSignup",
+        "SucessRegistration",
+        "chatBot"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -56,9 +58,8 @@
     "enabledforidletimeout": false,
     "friendlyName": "frmLoginSignup",
     "id": "frmLoginSignup",
-    "ide_init": "AS_Form_ff7b86bc297e41b6b1dd6c2fe5cf832b",
+    "ide_init": "AS_Form_e2eff4e1a7284dff8df928e05c40352f",
     "ide_postShow": "AS_Form_d623527ce0dc46d19f6b499b14f29a95",
-    "ide_preShow": "AS_Form_adfcc0f782ac4ab78db44250c4397449",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

@@ -42,7 +42,7 @@
         "value": "50%"
     },
     "children": [
-        "sflxDashBordHome",
+        "flxMainDashbord",
         "foot"
     ],
     "clipbounds": false,
@@ -52,7 +52,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "j21663f533c34262ab598cdc56845282",
+    "kuid": "e337c85b42a7479687c3181f8885ae7b",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "frmDashbord",

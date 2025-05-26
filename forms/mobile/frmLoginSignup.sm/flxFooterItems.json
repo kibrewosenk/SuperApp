@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "10%"
+        "value": "6%"
     },
     "_left_": {
         "type": "string",
@@ -22,14 +22,14 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "saa8f729db7d44ffa61334e004cc02f2",
+    "_skin_": "s5f9c5d530d14eeca15294d9c8bcaf46",
     "_top_": {
         "type": "string",
-        "value": "38dp"
+        "value": "21%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "102%"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -38,7 +38,15 @@
         "type": "string",
         "value": "50%"
     },
-    "children": [],
+    "children": [
+        "btnAboutUs",
+        "lblSeparator1",
+        "btnTerms",
+        "lblSeparator2",
+        "btnPrivacy",
+        "CopylblSeparator0ad8c3f440ff04a",
+        "btnSupport"
+    ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
@@ -47,7 +55,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "jdab87d96b6345ddbfe1ff5bfcb90839",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "sflxLogin",
     "pf": "frmLoginSignup",

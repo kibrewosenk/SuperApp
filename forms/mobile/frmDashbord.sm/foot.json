@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "37dp"
     },
     "_margin_": [
         0,
@@ -36,21 +36,43 @@
     "areflexpropsreferenced": false,
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "clipbounds": false,
     "containerweight": 0,
     "dataDiffs": {
         "flxFooter": {
             "__events__": {},
             "__info__": {
-                "kuid": "h511ce8b4c8f4e11988d356a0128236a",
+                "kuid": "b145582858c84407aa8fa4eb86150b74",
                 "srcKUID": "fe6bb61f4cd54f24b121e8d8ee5ee833",
                 "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "101%"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "102%"
+                }
+            },
+            "zIndex": {
+                "Default": 2
             }
         },
         "flxHome": {
             "__events__": {},
             "__info__": {
-                "kuid": "e4856586794f4b349761b11e410c01c8",
+                "kuid": "a7e94b88a577435bac2a324697b7c90b",
                 "srcKUID": "f41fdab0672f49378449c928f02ae23b",
                 "wType": "FlexContainer"
             }
@@ -58,7 +80,7 @@
         "flxRow2": {
             "__events__": {},
             "__info__": {
-                "kuid": "g6c2f655b6cf40b787f5edfc2813ecbb",
+                "kuid": "acecfbc156f04d8c824aa6e38b2471a0",
                 "srcKUID": "da2db99eaabf486fa5ca7d95945ec7f6",
                 "wType": "FlexContainer"
             }
@@ -66,7 +88,7 @@
         "flxRow3": {
             "__events__": {},
             "__info__": {
-                "kuid": "d9baf961b94d499cb825c04ff588322f",
+                "kuid": "cb0c802034f745ddbf14fe6c6916975c",
                 "srcKUID": "h9eeac777b384b5a91dc66deceabf73f",
                 "wType": "FlexContainer"
             }
@@ -74,7 +96,7 @@
         "flxRow4": {
             "__events__": {},
             "__info__": {
-                "kuid": "bf5fe33fa5c24bd493517327827e5ed0",
+                "kuid": "aef561363fbb4c15a718fbe3a0e4ddc1",
                 "srcKUID": "a7ed6f9d013040809ddcc7acd1b3ea73",
                 "wType": "FlexContainer"
             }
@@ -83,15 +105,36 @@
             "__events__": {},
             "__info__": {
                 "isRoot": true,
-                "kuid": "h7198848b53a4a0b9f4cb1e78e0c8f48",
+                "kuid": "bae5ecb7845644839b49e047d0b1fc23",
                 "srcKUID": "gd2fb952707c4b75ad9c1d4c19a2aa8b",
                 "wType": "FlexContainer"
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": "50%"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "37dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "zIndex": {
+                "Default": 2
             }
         },
         "imgHome": {
             "__events__": {},
             "__info__": {
-                "kuid": "f36a1cbb0c9e4930ae0f5a592ad08931",
+                "kuid": "a5d21240b1d34f078cd3eea6a4927874",
                 "srcKUID": "ffb7df9fc1ac44058948b9d2edebe329",
                 "wType": "Image"
             }
@@ -99,7 +142,7 @@
         "imgRow2": {
             "__events__": {},
             "__info__": {
-                "kuid": "f73dbdbc9cbe42338f65f41860840efd",
+                "kuid": "b18f1ff6670d419e944b729cf0a8ba63",
                 "srcKUID": "c8a5dace6ad94064a3b81cde44efd7c8",
                 "wType": "Image"
             }
@@ -107,24 +150,25 @@
         "imgRow3": {
             "__events__": {},
             "__info__": {
-                "kuid": "c7d3b4776da3477aae096445361d683b",
+                "kuid": "e75234a5b5de4fe7b746d3a2ddd163b5",
                 "srcKUID": "id74fb23b98c49a48cff7e512a7d4b8e",
                 "wType": "Image"
             },
-            "src": "option2.png"
+            "src": "remtanceoff.png"
         },
         "imgRow4": {
             "__events__": {},
             "__info__": {
-                "kuid": "eb1a36dd52fa4a0c99644098c2cb5dce",
+                "kuid": "bb130c69e2284586b95ddb882a9bfaa4",
                 "srcKUID": "ha25f864d6594f218ccf9d97875f7a68",
                 "wType": "Image"
-            }
+            },
+            "src": "settingofficon.png"
         },
         "lblHome": {
             "__events__": {},
             "__info__": {
-                "kuid": "e3588c253a7846cea0aa318a18f25176",
+                "kuid": "a561e69d87214f6495a6b3866122fc70",
                 "srcKUID": "fbca8b13aec942aea9d8e2fe8436281d",
                 "wType": "Label"
             },
@@ -133,15 +177,16 @@
         "lblRow": {
             "__events__": {},
             "__info__": {
-                "kuid": "f955e4e3e0074eb3af24818700657582",
+                "kuid": "j08bc16f0ac9492ca205f478ec4972e9",
                 "srcKUID": "f6ea0bed1816470599315514ef632ef9",
                 "wType": "Label"
-            }
+            },
+            "text": "Setting"
         },
         "lblRow2": {
             "__events__": {},
             "__info__": {
-                "kuid": "j0f63fbf361448c1a5d037592a19b148",
+                "kuid": "a69895ae745148efbde9d7908d17d576",
                 "srcKUID": "c5fa82f934064eb096d3923e6a29c323",
                 "wType": "Label"
             }
@@ -149,10 +194,11 @@
         "lblRow3": {
             "__events__": {},
             "__info__": {
-                "kuid": "ff03e3ae0634436b91e4ccb9acdd4bd8",
+                "kuid": "gd07c31baddb458897b7bb5db8ef704e",
                 "srcKUID": "c5ef188841de4d668dde493f921c2e39",
                 "wType": "Label"
-            }
+            },
+            "text": "Remitance"
         }
     },
     "enablescrolling": true,
@@ -161,7 +207,7 @@
     "iscustomlayout": false,
     "isdatareferenced": false,
     "isvisible": true,
-    "kuid": "h7198848b53a4a0b9f4cb1e78e0c8f48",
+    "kuid": "bae5ecb7845644839b49e047d0b1fc23",
     "layouttype": 2,
     "masterType": 0,
     "name": "kony.ui.UserWidgetInstance",
@@ -174,5 +220,5 @@
     "snaptogrid": true,
     "sourceUserWidget": "gd2fb952707c4b75ad9c1d4c19a2aa8b",
     "wType": "UserWidgetInstance",
-    "zindex": 1
+    "zindex": 2
 }

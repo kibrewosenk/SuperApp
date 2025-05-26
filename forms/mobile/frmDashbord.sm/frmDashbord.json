@@ -39,8 +39,9 @@
     },
     "canUpdateUI": true,
     "children": [
+        "flxHumbergerMenu",
         "flxDashBordPage",
-        "flxHumbergerMenu"
+        "chatBot"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -57,6 +58,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "enablescrolling": false,
+    "friendlyName": "frmDashbord",
     "id": "frmDashbord",
     "info": null,
     "initdone": false,

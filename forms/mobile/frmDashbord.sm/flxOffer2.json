@@ -6,7 +6,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "1%"
     },
     "_margin_": [
         0,
@@ -28,12 +28,12 @@
     },
     "_skin_": "s8e7342e64974d4db86a3533048ad66d",
     "_top_": {
-        "type": "string",
+        "type": "number",
         "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "90%"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -48,7 +48,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b0b4a4567ba04a36abf45b53c6945b2b",
+    "kuid": "gbefcc1d8e0046f7bcbae08a0374f874",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "sflxOffers",

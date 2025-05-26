@@ -8,7 +8,7 @@
     },
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "30%"
     },
     "_left_": {
         "type": "string",
@@ -34,7 +34,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "50%"
+        "value": "30%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -47,7 +47,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "bc711d16cd7d40cd90d075b5b68a4b07",
+    "kuid": "d7821b71f87148149ee4eccb04accd5e",
     "name": "kony.ui.Image2",
     "parent": "flxRequestMoney",
     "pf": "frmDashbord",

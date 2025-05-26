@@ -60,11 +60,11 @@
     "kuid": "d69aeb3ab5a5486da2513d9aed63cc0f",
     "masterdata": [
         [
-            "rbg1",
+            "Male",
             "Male"
         ],
         [
-            "rbg2",
+            "Female",
             "Female"
         ]
     ],
@@ -73,9 +73,9 @@
     "pf": "frmLoginSignup",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "selectedkey": "rbg1",
+    "selectedkey": "Male",
     "selectedkeyvalue": [
-        "rbg1",
+        "Male",
         "Male"
     ],
     "size": 18,

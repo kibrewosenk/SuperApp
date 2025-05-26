@@ -1,0 +1,39 @@
+{
+    "AS_FlexContainer_bf2c1c1f3be445d88f2a43f6387cabf6": {
+        "id": "AS_FlexContainer_bf2c1c1f3be445d88f2a43f6387cabf6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "_ide_onClick_jb18e87ebd634ae1b0c2fe603dc0d0db",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmDashbord",
+            "widgetId": "flxHumbergerMenu",
+            "itemKUID": "j24ee47617c5456698cbe52c276bbaa7",
+            "widgetKUID": "i95e2574705a484dbfbf4b9b38f5a284",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "centerX": "-100%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION_i0aa327256fb4ffe8074bc49ccf56149",
+            "displayAnimationId": "MOVE_ACTION_i0aa327256fb4ffe8074bc49ccf56149",
+            "forkedPlatform": "all",
+            "widgetPath": "this.view.flxHumbergerMenu"
+        }]
+    }
+}

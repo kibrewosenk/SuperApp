@@ -1,0 +1,28 @@
+{
+    "AS_Form_e2eff4e1a7284dff8df928e05c40352f": {
+        "id": "AS_Form_e2eff4e1a7284dff8df928e05c40352f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ged5fe7f9da54211abceee4ccab05386",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "userRepo",
+            "display": "userRepo",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

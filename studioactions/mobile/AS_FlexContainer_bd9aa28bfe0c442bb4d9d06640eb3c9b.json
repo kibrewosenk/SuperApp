@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_bd9aa28bfe0c442bb4d9d06640eb3c9b": {
+        "id": "AS_FlexContainer_bd9aa28bfe0c442bb4d9d06640eb3c9b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf427d2c3d9d486eb2069bc3f45fe499"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_cb665b9102174ab4bc5b8465d02623ac",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.view.chatBot.flxChatArea.isVisible == false){\n  this.view.chatBot.width=\"90%\";\n  this.view.chatBot.height=\"30%\";\n  this.view.chatBot.flxChatArea.isVisible = true;\n  \n  \n}\nelse{\n  this.view.chatBot.flxChatArea.isVisible = false;\n  this.view.chatBot.width=\"13%\";\n  this.view.chatBot.height=\"8%\";\n}",
+            "parentId": null
+        }]
+    }
+}

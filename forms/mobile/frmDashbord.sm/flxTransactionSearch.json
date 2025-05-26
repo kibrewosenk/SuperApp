@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "80%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -52,8 +52,8 @@
     "id": "flxTransactionSearch",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
-    "kuid": "a6a4d7c351e3466c85d3308fca36418b",
+    "isvisible": false,
+    "kuid": "c3faaa7278d44b79bfb671b8c3c2467d",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flxRecentTransactions",

@@ -29,11 +29,11 @@
     },
     "_width_": {
         "type": "string",
-        "value": "60%"
+        "value": "30%"
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "contentalignment": 6,
+    "contentalignment": 4,
     "dropdownimage": "listboxarw.png",
     "focusskin": "s21aaccc65254a7c85d448b62d1a2127",
     "groupcells": false,
@@ -70,7 +70,8 @@
     ],
     "selectedkeyvalues": null,
     "size": 18,
-    "tickedimage": "",
+    "tickedimage": "customcheckboxon.png",
+    "untickedimage": "customtchecknbosoff.png",
     "viewconfig": {
         "toggleViewConfig": {
             "viewStyle": 0

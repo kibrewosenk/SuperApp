@@ -3,11 +3,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "50%"
     },
     "_left_": {
         "type": "string",
-        "value": "2%"
+        "value": "5%"
     },
     "_margin_": [
         1,
@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "s6fcdad1524c43fd82e841574f52cee4",
+    "_skin_": "se6c326f6bf74d05b730b7657177a8dd",
     "_text_": "Recent Transactions",
     "_top_": {
         "type": "string",
@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "46%"
+        "value": "40%"
     },
     "_wrapping_": 2,
     "android": {
@@ -59,7 +59,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f1a06d7a29274bd899899c6946147629",
+    "kuid": "eee58ff3a89f4268a525a0019a315cc8",
     "name": "kony.ui.Label",
     "parent": "flxRecentTransactions",
     "pf": "frmDashbord",

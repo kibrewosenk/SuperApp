@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_df3794a4883e45398b40d175d09e1572": {
+        "id": "AS_FlexContainer_df3794a4883e45398b40d175d09e1572",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e995741d1b574cdd90459d84581c40ec",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.view.flxChatArea.isVisible == false){\n  this.view.flxChatArea.isVisible = true;\n}\nelse{\n  this.view.flxChatArea.isVisible = false;\n}"
+        }]
+    }
+}

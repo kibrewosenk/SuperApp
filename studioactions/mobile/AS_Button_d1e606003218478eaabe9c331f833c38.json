@@ -43,15 +43,6 @@
             "forkedPlatform": "all",
             "parentId": null,
             "widgetPath": "this.view.imgCheckBox"
-        }, {
-            "id": "INVOKE_FUNCTION__eb8d62c6fdb94721a62c00e677f94130",
-            "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "validateFormFill",
-            "display": "validateFormFill",
-            "inputparams": [],
-            "parentId": null,
-            "disabled": null,
-            "source": "controller"
         }]
     }
 }

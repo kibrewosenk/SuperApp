@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_g5b1884bf8a14a91b3bba3e41c320869": {
+        "id": "AS_FlexContainer_g5b1884bf8a14a91b3bba3e41c320869",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashbord",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j24ee47617c5456698cbe52c276bbaa7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_e5b3a07eb9ec445c8e562d43dafecd5c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.view.chatBot.flxChatArea.isVisible == false){\n  this.view.chatBot.width=\"90%\";\n  this.view.chatBot.height=\"30%\";\n  this.view.chatBot.flxChatArea.isVisible = true;\n  \n  \n}\nelse{\n  this.view.chatBot.flxChatArea.isVisible = false;\n  this.view.chatBot.width=\"13%\";\n  this.view.chatBot.height=\"8%\";\n}",
+            "parentId": null
+        }]
+    }
+}

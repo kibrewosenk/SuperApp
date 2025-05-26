@@ -4,10 +4,6 @@
         "type": "string",
         "value": "90%"
     },
-    "_left_": {
-        "type": "string",
-        "value": "0%"
-    },
     "_margin_": [
         0,
         0,
@@ -22,6 +18,10 @@
         0
     ],
     "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0"
+    },
     "_skin_": "saa8f729db7d44ffa61334e004cc02f2",
     "_top_": {
         "type": "string",
@@ -45,7 +45,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c3d2028926a34aa080f079a5ff30e75b",
+    "kuid": "ef3a6ebab5a64d978996e7626bd0ff97",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "flxQuickService",

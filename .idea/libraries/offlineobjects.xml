@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="offlineobjects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/customlibs/lib/sdkcommon/offlineobjects.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

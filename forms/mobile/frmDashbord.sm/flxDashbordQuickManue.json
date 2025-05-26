@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "40%"
+        "value": "30%"
     },
     "_left_": {
         "type": "string",
@@ -22,7 +22,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "saa8f729db7d44ffa61334e004cc02f2",
+    "_skin_": "sfe3d7a687a94452b9991e4253877916",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -45,10 +45,10 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cf5abe03a99647c0a31ea13393ffd363",
+    "kuid": "a7f0e24f11514d1f8819a740671f0c69",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxDashbord1",
+    "parent": "flxMainDashbord",
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

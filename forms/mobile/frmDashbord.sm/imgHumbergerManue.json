@@ -2,6 +2,10 @@
     "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
     "_base64_": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0"
+    },
     "_height_": {
         "type": "string",
         "value": "100%"
@@ -24,22 +28,22 @@
     ],
     "_skin_": "s4d63ad06533474d9eecf7b2d8b8c511",
     "_src_": "humbergermanueicon.png",
-    "_top_": {
-        "type": "string",
-        "value": "0"
-    },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "50%"
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "id": "imgHumbergerManue",
     "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fd5b4ca299f1424f8222ae0415b3d8d3",
+    "kuid": "d6dc70c0af51476b8f6a0bbd4611cef7",
     "name": "kony.ui.Image2",
     "parent": "flxHumbergerIcon",
     "pf": "frmDashbord",

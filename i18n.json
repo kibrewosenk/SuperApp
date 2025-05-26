@@ -37,7 +37,7 @@
     ],
     "locales": {
         "amh_ET": {
-            "country": "",
+            "country": "Ethiopia",
             "i18nStrings": {
                 "i18.signup.lblEmailAdress": "የኢሜል አድራሻ",
                 "i18.signup.lblFullName": "ሙሉ ስም",
@@ -76,7 +76,7 @@
             },
             "isCustomLocale": true,
             "isSelected": true,
-            "language": "",
+            "language": "Amharic",
             "layoutConfig": {
                 "mirrorContentAlignment": false,
                 "mirrorFlexPositionProperties": false,
@@ -129,7 +129,7 @@
             }
         },
         "oro_ET": {
-            "country": "",
+            "country": "Ethiopia",
             "i18nStrings": {
                 "i18.signup.lblEmailAdress": "teessoo imeelii",
                 "i18.signup.lblFullName": "maqaa guutuu",
@@ -168,7 +168,7 @@
             },
             "isCustomLocale": true,
             "isSelected": true,
-            "language": "",
+            "language": "Afan Oromoo",
             "layoutConfig": {
                 "mirrorContentAlignment": false,
                 "mirrorFlexPositionProperties": false,

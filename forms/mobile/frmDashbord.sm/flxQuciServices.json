@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "30%"
+        "value": "20%"
     },
     "_left_": {
         "type": "string",
@@ -22,14 +22,14 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s69a5d5c453043ac94c760601279f94b",
+    "_skin_": "sfe3d7a687a94452b9991e4253877916",
     "_top_": {
         "type": "string",
-        "value": "38%"
+        "value": "0.00%"
     },
     "_width_": {
         "type": "string",
-        "value": "95%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -40,8 +40,7 @@
     },
     "children": [
         "flxQuickServiceHeader",
-        "flxQuickServiceRow1",
-        "flxQuickServiceRow2"
+        "flxQuickServiceRow1"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -50,10 +49,10 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e6f8f323253a4f06b64b657232e71678",
+    "kuid": "e00f6ea493324d389c72d7690c9e9369",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxDashbord1",
+    "parent": "flxBody",
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
@@ -62,5 +61,5 @@
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 2
+    "zindex": 6
 }

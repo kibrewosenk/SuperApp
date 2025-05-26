@@ -45,6 +45,7 @@
             "id": "NAVIGATE_TO_FORM__ff60d8cdd2c34e52a1a4d5af0b4111c6",
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmDashbord",
+            "friendlyName": "frmDashbord",
             "formKUID": "j24ee47617c5456698cbe52c276bbaa7",
             "projectName": "Infinitysuperapp",
             "mappings": {},

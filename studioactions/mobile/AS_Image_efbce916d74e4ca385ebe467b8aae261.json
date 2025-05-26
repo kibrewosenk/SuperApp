@@ -1,0 +1,29 @@
+{
+    "AS_Image_efbce916d74e4ca385ebe467b8aae261": {
+        "id": "AS_Image_efbce916d74e4ca385ebe467b8aae261",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLanguageTransation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a49c63e30d4e43d6a028fcaeabc74b96"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_c71e6bfbf8aa451c96a4654803337b6e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.view.lblTotalBalanceAmount.text == \"***\"){\n  this.view.lblTotalBalanceAmount.text = \"1,000,000\";\n//   this.view.segAccounts.lblDisplayBalance.text =\"500,000\";\n  \n}\nelse{\n  this.view.lblTotalBalanceAmount.text = \"***\";\n//     this.view.segAccounts.lblDisplayBalance.text = \"***\";\n\n}",
+            "parentId": null
+        }]
+    }
+}

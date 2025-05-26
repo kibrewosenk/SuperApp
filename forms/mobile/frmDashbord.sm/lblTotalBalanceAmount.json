@@ -2,12 +2,12 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -23,9 +23,13 @@
     ],
     "_skin_": "sa1ea3c1c76f4b6a95467b82c39806ca",
     "_text_": "1,000,000",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "40%"
     },
     "_wrapping_": 2,
     "android": {
@@ -37,7 +41,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "containerweight": 100,
     "contentalignment": 4,
@@ -55,9 +59,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e9d7b96e55924ee6a962db4d947d45fe",
+    "kuid": "d36a6dca48ca4243b248cee985f70a76",
     "name": "kony.ui.Label",
-    "parent": "flxTotalBalanceFegure",
+    "parent": "flxBalance",
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -46,7 +46,7 @@
         "segTransactionList": {
             "__events__": {},
             "__info__": {
-                "kuid": "d2e7deb077014c2f81206b559478f934",
+                "kuid": "f2a4b648d42a494f938ab49d966b2e49",
                 "srcKUID": "g5bbdf5576784b75a87aefe3e8deaa00",
                 "wType": "Segment"
             },
@@ -200,7 +200,7 @@
         "sflxTransactionList": {
             "__events__": {},
             "__info__": {
-                "kuid": "f1df305b862a44b78edc7aacd9c242c7",
+                "kuid": "ad8a477e760b4106a87a4841e848a1a7",
                 "srcKUID": "i5115f62f0d5458ba478062d3a63d003",
                 "wType": "FlexScrollContainer"
             },
@@ -233,7 +233,7 @@
             "__events__": {},
             "__info__": {
                 "isRoot": true,
-                "kuid": "fcaf2eb9e08f4b1393d73329fda30a0d",
+                "kuid": "i1a265cf17e94fda871e6c501ec99c66",
                 "srcKUID": "d81a26b526f6436a87d5aa872ef589bc",
                 "wType": "FlexContainer"
             },
@@ -276,11 +276,11 @@
     "iscustomlayout": false,
     "isdatareferenced": false,
     "isvisible": false,
-    "kuid": "fcaf2eb9e08f4b1393d73329fda30a0d",
+    "kuid": "i1a265cf17e94fda871e6c501ec99c66",
     "layouttype": 2,
     "masterType": 0,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "sflxOffersandTransationsList",
+    "parent": "sflxOteherServicesandTransationsList",
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "20%"
+        "value": "10%"
     },
     "_left_": {
         "type": "string",
@@ -37,20 +37,21 @@
     "children": [
         "lblRecentTYransactions",
         "flxTransactionSearch",
+        "lblOtherServices",
         "lblSeeAllRecentTransactions"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flxRecentTransactions",
-    "ide_onClick": "AS_FlexContainer_i065f4ec9d844396bf2423aa8e0b766c",
+    "ide_onClick": "AS_FlexContainer_cbb4d7a4e8654f3b8b2a89935bde270b",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h288f9508970441ebd6dc0cb5e6b5bbe",
+    "kuid": "fb1e0e45b97247789d7b0b1198abe1ac",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxRecntTransctionAndOffers",
+    "parent": "flxRecntTransctionAndAdditinanServces",
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

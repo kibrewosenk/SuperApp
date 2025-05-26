@@ -1,0 +1,28 @@
+{
+    "AS_Form_f8edb5f8b97d4265995fa92391657000": {
+        "id": "AS_Form_f8edb5f8b97d4265995fa92391657000",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLanguageTransation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a49c63e30d4e43d6a028fcaeabc74b96"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__f0c9e278d7e24dd9967c947298206b93",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateBack",
+            "display": "navigateBack",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

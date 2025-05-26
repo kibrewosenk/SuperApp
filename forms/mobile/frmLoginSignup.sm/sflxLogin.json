@@ -46,7 +46,7 @@
         "lsboxLanguage",
         "lblErroerMessage",
         "flxLoginForm",
-        "btnForgotPassword",
+        "flxRembermeandReset",
         "btnLogin",
         "flxBioOption",
         "flxCreateAccount",
@@ -77,5 +77,6 @@
     "track": false,
     "verticalscrollindicator": true,
     "wType": "FlexScrollContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 2
 }

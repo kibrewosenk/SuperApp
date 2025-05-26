@@ -1,0 +1,19 @@
+{
+    "AS_TextField_c907121b14d9436895ca1d7b5560800f": {
+        "id": "AS_TextField_c907121b14d9436895ca1d7b5560800f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTextChange_b8ec2ab965764b5fb6e9fef0b153b9b8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.transactionList.segTransactionList.searchText(\n [{\n   \"textToSearch\": this.view.txtTranscationSearch.text,\n   \"caseSensitive\": false,\n   \"searchType\": constants.SEGUI_SEARCH_CRITERIA_CONTAINS,\n   \"searchableWidgets\": [\"lblDate\",\"lblAccountNUmber\",\"lblAmount\",\"lblAccountName\"]\n  }], {//config parameter\n\n  \"updateSegment\": true,\n  \"showHeaderFooter\": true\n  });"
+        }]
+    }
+}

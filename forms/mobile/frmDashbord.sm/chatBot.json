@@ -1,0 +1,243 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "saa8f729db7d44ffa61334e004cc02f2",
+    "_width_": {
+        "type": "string",
+        "value": "13%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "btnSendMesage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cbd140d15fd546f18768a5dacbdcc799",
+                "srcKUID": "e7aa8ef070f646448b970aa221bf98c4",
+                "wType": "Button"
+            }
+        },
+        "chatBot": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "e142e6ae16474a9d9734c4b094051982",
+                "srcKUID": "e7f4f1a540cc4cbd87ecdd44ac783083",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": "8%"
+                }
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "8%"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "5%"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "13%"
+                }
+            }
+        },
+        "flxCharBotAlign": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cde0f06a1bb84e738a16863ba1851a45",
+                "srcKUID": "i2c6838e983e4fdabc52338e9b5a9afe",
+                "wType": "FlexContainer"
+            },
+            "layoutType": 2
+        },
+        "flxChatArea": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ea639100bf6d4d4eafbb7c7a4de2bdf2",
+                "srcKUID": "e94b3e6e4f0f458981ccc53c76109029",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxChatBot": {
+            "__events__": {
+                "ide_onClick": "AS_FlexContainer_g5b1884bf8a14a91b3bba3e41c320869"
+            },
+            "__info__": {
+                "kuid": "f04b644472324754817dfbbf6af19f86",
+                "srcKUID": "f8f8d875ba1a4356a3cfbf75bcc37b92",
+                "wType": "FlexContainer"
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "0%"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        },
+        "flxMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d552b0a3c58a4eb992086fbb87261265",
+                "srcKUID": "h2bf83c0a538476bb6c1490d4c790edd",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSendText": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c1e4816963724101a540084ad4a90b3b",
+                "srcKUID": "acf44c58ef5849f5af210f3ad1bbada2",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgChatBotIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h156462f7ce64820af77fedd92efe3f9",
+                "srcKUID": "e9b8731030314fe19a68d76861660a17",
+                "wType": "Image"
+            }
+        },
+        "segMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f676e14510c1461e93d35cda950ad338",
+                "srcKUID": "d924e22670b14ecc8ca22fc096f5e7b7",
+                "wType": "Segment"
+            }
+        },
+        "sflxMessageArea": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b6541489204e4fd4b40fb617b3d9cfcb",
+                "srcKUID": "a0d5c0e4ebb749439240c1b396b57f5f",
+                "wType": "FlexScrollContainer"
+            }
+        },
+        "txtaMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a0e4606a22c54f96b6f10b9e696a66e2",
+                "srcKUID": "cf8413810b44477dbb2021fc8e2fa7f6",
+                "wType": "TextArea"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "chatBot",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "e142e6ae16474a9d9734c4b094051982",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmDashbord",
+    "pf": "frmDashbord",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "reverselayoutdirection": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "e7f4f1a540cc4cbd87ecdd44ac783083",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

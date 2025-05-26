@@ -34,6 +34,10 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
         "imgHumbergerManue"
     ],
@@ -41,11 +45,11 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flxHumbergerIcon",
-    "ide_onClick": "AS_FlexContainer_ecbe3469788446b8a17db648eb80a316",
+    "ide_onClick": "AS_FlexContainer_cb7a117c8c46472d8bacf4e8c47050bb",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f9901a16fa3548308f9d00f05dff33ea",
+    "kuid": "a12bfc014e5547e4b3bea9902f9c426c",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flsHeaderAndBalance",

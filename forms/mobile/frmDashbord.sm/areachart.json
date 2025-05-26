@@ -1,0 +1,94 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se4a65c2ee2e4c39bfaeda3797b7ab74",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "102%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 0,
+    "data": {
+        "chartData": {
+            "data": [
+                {
+                    "dataVal": "5",
+                    "lblName": "week 1"
+                },
+                {
+                    "dataVal": "12",
+                    "lblName": "week 2"
+                },
+                {
+                    "dataVal": "7",
+                    "lblName": "week 3"
+                },
+                {
+                    "dataVal": "3",
+                    "lblName": "week 4"
+                }
+            ],
+            "schema": [
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "Label Name",
+                    "columnHeaderType": "text",
+                    "columnID": "lblName",
+                    "columnText": "Not Defined",
+                    "columnType": "text",
+                    "kuid": "j1370bb11d51414b8e00a695324a4593"
+                },
+                {
+                    "columnHeaderTemplate": null,
+                    "columnHeaderText": "Value",
+                    "columnHeaderType": "text",
+                    "columnID": "dataVal",
+                    "columnText": "Not Defined",
+                    "columnType": "text",
+                    "kuid": "b2e632b263da4da7812168aeda45fa2c"
+                }
+            ]
+        }
+    },
+    "id": "areachart",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bc7dca4e59ea45a2a849db5e70a9f7e7",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "sflxOteherServicesandTransationsList",
+    "pf": "frmDashbord",
+    "sourceUserWidget": "ub6a95abb1bd430388e90bb8813513a1",
+    "wType": "UserWidgetInstance"
+}

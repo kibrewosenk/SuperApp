@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_cbb4d7a4e8654f3b8b2a89935bde270b": {
+        "id": "AS_FlexContainer_cbb4d7a4e8654f3b8b2a89935bde270b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c9503e7210464fc5805e7d8709363ee2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var self = this;\nif(this.view.lblSeeAllRecentTransactions.text == \"See All\"){\n  this.view.lblSeeAllRecentTransactions.text = \"Hide All\";\n  self.view.transactionList.isVisible = true;\n  self.view.segOtherServices.isVisible = false;\n  self.view.flxTransactionSearch.isVisible = true;\n  self.view.lblOtherServices.isVisible= false;\n  self.view.areachart.isVisible = false;\n}\nelse{\n    this.view.lblSeeAllRecentTransactions.text = \"See All\";\n  \tself.view.transactionList.isVisible = false;\n  \tself.view.segOtherServices.isVisible = true;\n    self.view.flxTransactionSearch.isVisible = false;\n  \tself.view.lblOtherServices.isVisible= true;\n    self.view.areachart.isVisible = true;\n\n}"
+        }]
+    }
+}

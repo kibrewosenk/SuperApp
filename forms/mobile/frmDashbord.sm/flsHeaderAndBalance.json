@@ -40,7 +40,7 @@
     },
     "children": [
         "flxHumbergerIcon",
-        "flxTotalBalance"
+        "flxTotalBalanceUserName"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -49,7 +49,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "eaa5216ba3864fa08e200926d3be452c",
+    "kuid": "j477c20c9d034b798a8b0f141153066c",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flxDashbordQuickManue",

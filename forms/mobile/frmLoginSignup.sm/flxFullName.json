@@ -24,8 +24,8 @@
     "_percent_": true,
     "_skin_": "saa8f729db7d44ffa61334e004cc02f2",
     "_top_": {
-        "type": "string",
-        "value": "5%"
+        "type": "number",
+        "value": "2"
     },
     "_width_": {
         "type": "string",

@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "20%"
+        "value": "15%"
     },
     "_left_": {
         "type": "string",
@@ -35,8 +35,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblQuickServiceList",
-        "flxSerchQuickServices"
+        "lblQuickServiceList"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -45,7 +44,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c7e68477416747949e8e3fba93d2052d",
+    "kuid": "e9bc2031990c4685827b7f9ad7705a3e",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flxQuciServices",

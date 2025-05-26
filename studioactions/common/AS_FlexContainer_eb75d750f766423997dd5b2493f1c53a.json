@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_eb75d750f766423997dd5b2493f1c53a": {
+        "id": "AS_FlexContainer_eb75d750f766423997dd5b2493f1c53a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "u1176bf19ac548c084002b89c25786bc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_d51ba5e941f94588b8c3c511f60a1998",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var self= this;\nif(self.view.imgSwitch.src == \"switchon.png\"){\n  self.view.imgSwitch.src = \"switchoff.png\";\n  remberme = 0;\n}\nelse if(self.view.imgSwitch.src == \"switchoff.png\"){\n  self.view.imgSwitch.src = \"switchon.png\";\n  remberme = 1\n\n}",
+            "parentId": null
+        }]
+    }
+}

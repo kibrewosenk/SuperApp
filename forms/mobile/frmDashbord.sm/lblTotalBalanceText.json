@@ -3,7 +3,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "40%"
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
     },
     "_margin_": [
         1,
@@ -21,11 +25,11 @@
     "_text_": "Total Balance",
     "_top_": {
         "type": "string",
-        "value": "20%"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "30%"
     },
     "_wrapping_": 2,
     "android": {
@@ -35,7 +39,7 @@
         }
     },
     "canUpdateUI": true,
-    "centerx": {
+    "centery": {
         "type": "string",
         "value": "50%"
     },
@@ -55,9 +59,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i9db1557575348ea9481760e43976688",
+    "kuid": "hc01cfead3af4c4f85625ee50142e153",
     "name": "kony.ui.Label",
-    "parent": "flxTotalBalance",
+    "parent": "flxTotalBalanceUserName",
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

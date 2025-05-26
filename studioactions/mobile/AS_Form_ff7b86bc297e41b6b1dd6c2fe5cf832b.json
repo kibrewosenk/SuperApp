@@ -14,11 +14,6 @@
         },
         "language": "js",
         "actions": [{
-            "id": "ADD_SNIPPET_d45e72ebf15e4be28b9702dfca31e7e3",
-            "type": "ADD_SNIPPET",
-            "codeSnippet": "this.view.btnCreateAccount.setEnabled= false;\nthis.view.btnCreateAccount.skin = sknTranspart;",
-            "parentId": null
-        }, {
             "id": "INVOKE_FUNCTION__cff2302e5019412dbd744e31b48f814f",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "userRepo",

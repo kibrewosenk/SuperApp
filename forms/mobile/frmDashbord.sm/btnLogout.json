@@ -1,6 +1,10 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "20%"
+    },
     "_height_": {
         "type": "string",
         "value": "50%"
@@ -23,10 +27,6 @@
     ],
     "_skin_": "s3c13712957a49a99da615a7db1bf1b3",
     "_text_": "Logout",
-    "_top_": {
-        "type": "string",
-        "value": "0"
-    },
     "_width_": {
         "type": "string",
         "value": "60%"

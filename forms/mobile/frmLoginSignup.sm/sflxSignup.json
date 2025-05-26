@@ -72,5 +72,6 @@
     "track": false,
     "verticalscrollindicator": true,
     "wType": "FlexScrollContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 2
 }

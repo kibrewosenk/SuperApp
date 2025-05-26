@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "40%"
+        "value": "80%"
     },
     "_left_": {
         "type": "string",
@@ -25,7 +25,7 @@
     "_skin_": "saa8f729db7d44ffa61334e004cc02f2",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "5%"
     },
     "_width_": {
         "type": "string",
@@ -35,10 +35,10 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxTransfer",
-        "flxTopUp",
-        "flxCards",
-        "flxBills"
+        "flxOwnTransfer",
+        "flxWithnBank",
+        "flxExternalBankTransfer",
+        "flxPayments"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -47,7 +47,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b4e8a83019ca4c95ad424990ec3100d4",
+    "kuid": "g7d69d8017af41a5b8d8d17c1923d8f6",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flxQuciServices",

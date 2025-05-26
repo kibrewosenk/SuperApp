@@ -22,7 +22,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sb4bff9a0cc5446898348f55d77e8e4e",
+    "_skin_": "saa8f729db7d44ffa61334e004cc02f2",
     "_top_": {
         "type": "string",
         "value": "0"
@@ -34,6 +34,14 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
         "imgQrCOdePayment",
         "lblQrCodetext"
@@ -45,7 +53,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ac839fc8f7ca44a78a0e3c157cf3e21d",
+    "kuid": "ecc650fa679a42dba053c8caf3c3308f",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "flxQuickService",

@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_i7b2228956154f8e92196b2a90871f2c": {
+        "id": "AS_FlexContainer_i7b2228956154f8e92196b2a90871f2c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashbord",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j24ee47617c5456698cbe52c276bbaa7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ia4b2b81177e4eafa5d2f121eac4dd45",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLanguageTransation",
+            "friendlyName": "frmLanguageTransation",
+            "formKUID": "a49c63e30d4e43d6a028fcaeabc74b96",
+            "projectName": "Infinitysuperapp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

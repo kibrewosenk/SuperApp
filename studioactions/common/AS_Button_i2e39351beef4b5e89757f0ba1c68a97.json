@@ -1,0 +1,16 @@
+{
+    "AS_Button_i2e39351beef4b5e89757f0ba1c68a97": {
+        "id": "AS_Button_i2e39351beef4b5e89757f0ba1c68a97",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_jced175cf1d84a3aad9d9ccb2121d2d5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var self = this;\nvar newData = [\n    {\n        rtxtMessage: self.view.txtaMessage.text,\n      \tIblTimeStamp: \"Now\"\n        \n    }\n];\n\n// Append new data to existing segment\nself.view.txtaMessage.text=\"\";\nthis.view.segMessage.addAll(newData);\n"
+        }]
+    }
+}

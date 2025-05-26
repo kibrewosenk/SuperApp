@@ -15,6 +15,11 @@
         0
     ],
     "_percent_": true,
+    "_pxMenuIndex": [
+        0,
+        1,
+        1
+    ],
     "_skin_": "sbe77d7ecdcf4beda2e6d6a470b6e7ef",
     "_title_": null,
     "addWidgetsdone": false,
@@ -22,7 +27,7 @@
     "android": {
         "needAppMenu": false,
         "psp": {
-            "windowSoftInputMode": 1
+            "windowSoftInputMode": 2
         }
     },
     "androidwearos": {
@@ -32,7 +37,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "flxTransitionMessage"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
@@ -47,9 +54,11 @@
     "device": "iPhone13",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "enablescrolling": false,
     "friendlyName": "frmLanguageTransation",
     "id": "frmLanguageTransation",
-    "ide_preShow": "AS_Form_gd7c1838e233499385ebb82632f0f9cc",
+    "ide_postShow": "AS_Form_cce16e1fd2544ba9b519921b2474494a",
+    "ide_preShow": "AS_Form_f8edb5f8b97d4265995fa92391657000",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -101,8 +110,8 @@
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "iphone",
-    "prevDevice": "iPhone13",
-    "prevPlatform": "iphone",
+    "prevDevice": "WinMob",
+    "prevPlatform": "winphone8",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

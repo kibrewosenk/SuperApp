@@ -4,7 +4,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "30%"
     },
     "_left_": {
         "type": "string",
@@ -30,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "50%"
+        "value": "30%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -43,7 +43,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "j2a1cc2ca00d45c692ca29a08fa1f053",
+    "kuid": "fa5c5870a692447db803261b6a96145f",
     "name": "kony.ui.Image2",
     "parent": "flxQuicSend",
     "pf": "frmDashbord",

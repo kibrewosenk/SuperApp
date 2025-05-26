@@ -1,8 +1,12 @@
 {
     "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "1%"
+    },
     "_height_": {
         "type": "string",
-        "value": "90%"
+        "value": "20%"
     },
     "_left_": {
         "type": "string",
@@ -25,11 +29,11 @@
     "_skin_": "se75b32eb6b442ae8520e9cda68df8ef",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "1%"
     },
     "_width_": {
         "type": "string",
-        "value": "90%"
+        "value": "100%"
     },
     "allboxes": [],
     "allowhorizontalbounce": false,
@@ -38,7 +42,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "49.98%"
     },
     "children": [
         "flxOffer1",
@@ -58,11 +62,11 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "dd8d6938985b417faa056d0b78ebcb0f",
+    "kuid": "edbeaab3aa7d4a03aaac5585263dec9f",
     "layouttype": 3,
     "name": "kony.ui.FlexScrollContainer",
     "pagingenabled": true,
-    "parent": "sflxOffersandTransationsList",
+    "parent": "sflxSubBody",
     "pf": "frmDashbord",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
